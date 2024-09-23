@@ -6830,5 +6830,14 @@
   "Async": "异步",
   "Swap Location": "交换位置",
   "Shared": "共享",
-  "GPU Weights (MB)": "GPU 权重 （MB）"
+  "GPU Weights (MB)": "GPU 权重 （MB）",
+  "Schedule bias": "调度偏移",
+  "Preservation strength": "保留强度",
+  "Transition contrast boost": "过渡对比增强",
+  "Mask influence": "蒙版影响",
+  "Difference threshold": "差异阈值",
+  "Difference contrast": "差异对比",
+  "This value represents the difference at which the original pixels will have less than 50% opacity.": "此值表示原始像素的不透明度小于 50% 的差异。",
+  "This parameter controls how much the mask should bias this sensitivity to difference.": "此参数控制蒙版应该在多大程度上影响这种对差异的敏感性。",
+  "This value represents the contrast between the opacity of the original and inpainted content.": "此值表示原始内容和已修复内容的不透明度之间的对比度。"
 }
