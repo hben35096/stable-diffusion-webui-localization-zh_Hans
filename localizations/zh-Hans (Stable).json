@@ -7117,5 +7117,7 @@
   "LoRA stop step": "LoRA停止步数",
   "LoRA Hires stop step": "LoRA高分辨率停止步数",
   "Use LoHa or other": "使用LoHa或其他",
-  "Use BREAK to change chunks": "使用BREAK来更改块"
+  "Use BREAK to change chunks": "使用BREAK来更改块",
+  "Generation Mode": "生成模式",
+  "Attention": "注意力"
 }
