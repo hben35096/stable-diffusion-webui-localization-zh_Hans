@@ -7114,7 +7114,8 @@
   "Upload Background": "上传背景图",
   "Upload Mask": "上传蒙版",
   "Overlay Ratio": "重叠率",
-  "LoRA Hires stop step": "LoRA高分辨率停止步骤",
+  "LoRA stop step": "LoRA停止步数",
+  "LoRA Hires stop step": "LoRA高分辨率停止步数",
   "Use LoHa or other": "使用LoHa或其他",
   "Use BREAK to change chunks": "使用BREAK来更改块"
 }
